@@ -8,3 +8,25 @@ body {
 header{
   text-align: center;
 }
+#featured-property{
+  width: 100%;
+  text-align: center;
+
+}
+
+#featured-property img{
+  width: 900px;
+  margin: auto;
+}
+#featured-property p{
+  width: 800px;
+  margin: auto;
+}
+
+#details{
+  background-color: coral;
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
